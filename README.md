@@ -1,1 +1,2 @@
-Hand & Stone Massage and Facial Spa in Paradise Valley's website. Contains their own service providers, services they offer, etc.
+This repository contains files for CIS300 Project
+Assignments
